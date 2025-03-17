@@ -29,7 +29,7 @@ Screenshots<br>
 <br>
 <br>
 📂 File Structure<br>
-File Name	          <pre>Description<br>
+<pre>File Name</pre>	          <pre>Description<br>
 main.cpp	        Entry point of the system and main logic flow<br>
 hospital.cpp	    Contains hospital-related data and functions<br>
 doctor.cpp	      Doctor profile management<br>
@@ -42,6 +42,7 @@ address.cpp	     Address details used in profiles<br>
 person.cpp	     Base class for person entities<br>
 global.cpp	     Global data and utilities<br>
 code_result.pdf 	Output results and system demonstration<br>
+</pre>
 <br>
 <br>
 🚀 How to Run the Project
