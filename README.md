@@ -29,7 +29,7 @@ Screenshots<br>
 <br>
 <br>
 📂 File Structure<br>
-<pre>File Name</pre>	          <pre>Description<br>
+<pre>File Name          Description<br>
 main.cpp	        Entry point of the system and main logic flow<br>
 hospital.cpp	    Contains hospital-related data and functions<br>
 doctor.cpp	      Doctor profile management<br>
