@@ -2,12 +2,12 @@
 🏥 Hospital Management System
 <br>
 <br>
-📑 Project Overview
+## 📑 Project Overview
 <br>
 The Hospital Management System is a console-based application developed in C++ to manage the core operations of a hospital efficiently. It handles patient records, doctor appointments, ambulance services, nurse and driver details, and more. The system utilizes object-oriented programming (OOP) concepts such as classes, inheritance, and polymorphism to model real-world hospital scenarios.
 <br>
 <br>
-✨ Features<br>
+## ✨ Features<br>
 👨‍⚕️ Manage Doctor, Nurse, and Patient profiles.<br>
 🚑 Ambulance management for emergency services.<br>
 📅 Appointment scheduling between doctors and patients.<br>
@@ -15,20 +15,20 @@ The Hospital Management System is a console-based application developed in C++ t
 🏥 Hospital record keeping, including available services and staff.<br>
 📍 Handle Address and global details of hospital entities.<br>
 <br>
-🛠️ Technologies Used<br>
+## 🛠️ Technologies Used<br>
 Language: C++<br>
 Concepts: OOP (Classes, Inheritance, Polymorphism), File Handling<br>
 Environment: Console-based interface<br>
 <br>
 
-Screenshots<br>
+## Screenshots<br>
 ![image](https://github.com/user-attachments/assets/957eb3b3-f53d-44e6-b59a-b11df82059fb)
 
 
 ![image](https://github.com/user-attachments/assets/8fc0cc6c-7798-42fe-bc2e-d616da8cedc9)
 <br>
 <br>
-📂 File Structure<br>
+## 📂 File Structure<br>
 <pre>File Name          Description<br>
 main.cpp	        Entry point of the system and main logic flow<br>
 hospital.cpp	    Contains hospital-related data and functions<br>
@@ -45,7 +45,7 @@ code_result.pdf 	Output results and system demonstration<br>
 </pre>
 <br>
 <br>
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 Clone the repository:<br>
 git clone https://github.com/YourUsername/Hospital_Management_System.git<br>
 cd Hospital_Management_System<br>
@@ -59,7 +59,7 @@ Run the executable:<br>
 
 ./HospitalManagementSystem<br>
 <br><br>
-🔑 Key OOP Concepts Used<br>
+## 🔑 Key OOP Concepts Used<br>
 Classes & Objects for real-life entities (Doctor, Patient, Nurse, etc.)<br>
 Inheritance to share common properties (Person class)<br>
 Polymorphism for method overriding where applicable<br>
@@ -68,8 +68,8 @@ File Handling to maintain records persistently<br>
 
 
 
-👤 Author<br>
-Ashish Sharma
+## 👤 Author<br>
+Ashish Sharma<br>
 Email id : ashishsharma10436@gmail.com
 
 
